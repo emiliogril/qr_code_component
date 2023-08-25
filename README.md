@@ -17,7 +17,7 @@ Esta es un desafío del componente de código QR en Frontend Mentor. Los desafí
 
 ### Que aprendí
 
-Utilice esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto. Escribirlos y proporcionar ejemplos de código de las áreas que desea resaltar es una excelente manera de reforzar su propio conocimiento.
+Utilice esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto.
 
 
 ### Continuo desarrollo
